@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0263-ugly-number) |
 ## Divide and Conquer
 |  |
 | ------- |
