@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0263-ugly-number) |
 ## Divide and Conquer
 |  |
@@ -80,8 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
