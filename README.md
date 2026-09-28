@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0263-ugly-number) |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
