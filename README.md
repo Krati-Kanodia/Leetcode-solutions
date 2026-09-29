@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Memoization
 |  |
@@ -156,9 +159,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
