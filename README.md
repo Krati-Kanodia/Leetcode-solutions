@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
