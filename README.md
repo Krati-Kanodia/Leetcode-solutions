@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Memoization
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
