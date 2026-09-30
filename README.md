@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Krati-Kanodia/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
